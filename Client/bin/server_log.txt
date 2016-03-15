@@ -1,0 +1,2 @@
+(hehe,1) has been stored in 2016-02-17 13:47:20
+There is a request of key hehe in 2016-02-17 13:47:20

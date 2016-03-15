@@ -1,0 +1,4 @@
+PUT hehe 1
+GET hehe
+DELETE haha
+END
